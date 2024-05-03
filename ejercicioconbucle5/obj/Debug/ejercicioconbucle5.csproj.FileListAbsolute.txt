@@ -1,0 +1,7 @@
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERICICIOS CON BUCLE C#\ejercicioconbucle5\ejercicioconbucle5\bin\Debug\ejercicioconbucle5.exe.config
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERICICIOS CON BUCLE C#\ejercicioconbucle5\ejercicioconbucle5\bin\Debug\ejercicioconbucle5.exe
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERICICIOS CON BUCLE C#\ejercicioconbucle5\ejercicioconbucle5\bin\Debug\ejercicioconbucle5.pdb
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERICICIOS CON BUCLE C#\ejercicioconbucle5\ejercicioconbucle5\obj\Debug\ejercicioconbucle5.csproj.SuggestedBindingRedirects.cache
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERICICIOS CON BUCLE C#\ejercicioconbucle5\ejercicioconbucle5\obj\Debug\ejercicioconbucle5.csproj.CoreCompileInputs.cache
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERICICIOS CON BUCLE C#\ejercicioconbucle5\ejercicioconbucle5\obj\Debug\ejercicioconbucle5.exe
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERICICIOS CON BUCLE C#\ejercicioconbucle5\ejercicioconbucle5\obj\Debug\ejercicioconbucle5.pdb
